@@ -245,6 +245,7 @@
   "The file is locked": "파일이 잠겨 있습니다",
   "This access is protected by a password": "이 액세스는 비밀번호로 보호됩니다",
   "You do not have share permission": "공유할 권한이 없습니다",
+  "Desktop app permission required": "데스크톱 앱 권한이 필요합니다",
   "You can not share a space": "스페이스는 공유할 수 없습니다",
   "You can not remove an anchored file": "고정된 파일은 삭제할 수 없습니다",
   "You are not allowed to write here": "여기에 쓸 권한이 없습니다",

@@ -245,6 +245,7 @@
   "The file is locked": "Dosya kilitli",
   "This access is protected by a password": "Bu erişim parola ile korunuyor",
   "You do not have share permission": "Paylaşma izniniz yok",
+  "Desktop app permission required": "Masaüstü uygulaması izni gerekli",
   "You can not share a space": "Bir alanı paylaşamazsınız",
   "You can not remove an anchored file": "Sabitlenmiş bir dosyayı kaldıramazsınız",
   "You are not allowed to write here": "Buraya yazma izniniz yok",
